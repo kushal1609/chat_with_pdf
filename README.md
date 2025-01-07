@@ -1,5 +1,5 @@
-# chat_with_pdf
 # Chat with PDF using Hugging Face 🤖
+
 # Object
 This project enables users to upload PDF files and ask context-specific questions about their content. It leverages Hugging Face models for embeddings and question answering, making it an interactive and intelligent document assistant.
 # Features
@@ -9,8 +9,8 @@ Question Answering: Provides detailed answers to user queries using Hugging Face
 Streamlit UI: A user-friendly interface for uploading PDFs, viewing content, and interacting with the system.
 # Installation
 Prerequisites : (1) Python 3.8 or higher
-                           (2) A Hugging Face API token (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)
-Project Structure
+                (2) A Hugging Face API token (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)
+# Project Structure
 ├── app.py                 # Main application script
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation                 
