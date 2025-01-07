@@ -11,9 +11,9 @@ Streamlit UI: A user-friendly interface for uploading PDFs, viewing content, and
 Prerequisites : (1) Python 3.8 or higher
                 (2) A Hugging Face API token (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)
 # Project Structure
-app.py --> Main application script
-requirements.txt --> Python dependencies
-README.md --> Project documentation                 
+app.py --> Main application script ,
+requirements.txt --> Python dependencies ,
+README.md --> Project documentation ,               
 faiss_index --> Folder to store the FAISS vector store(generated during runtime)
 # Technologies Used
 Streamlit: For building the user interface.
